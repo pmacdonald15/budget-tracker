@@ -46,9 +46,14 @@ The application must remain running in the terminal until your done with it, at 
 
 ## Screenshots
 
+![5a234098eac8d33e0625bed0a95ef102](https://user-images.githubusercontent.com/91036714/160436710-35d57720-d854-4962-a0e6-c335c5daef59.png)
+![049325f5118293fb9f8467ae94838376](https://user-images.githubusercontent.com/91036714/160436770-edbb1bd8-6e73-4b44-89ec-bdd026e2e6ed.png)
+
+
 ## Credit
 
 Made by Phillip MacDonald - [GitHub](https://github.com/pmacdonald15)
+
 
 ## Questions
 
