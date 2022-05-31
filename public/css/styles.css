@@ -3,28 +3,26 @@ body {
   font-family: Arial;
 }
 
-button, input {
-  font-size: 100%;
-  font-family: Arial;
-}
 
 table {
   width: 100%;
 }
 
+button, input {
+  font-size: 100%;
+  font-family: Arial;
+}
+
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid #a0d6dd;
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #d1d1d1;
 }
 
-.error {
-  color: red;
-}
 
 .wrapper {
   margin: 0 auto;
@@ -32,14 +30,13 @@ tr:nth-child(even) {
   text-align: center;
 }
 
-.total {
-  font-size: 150%;
-  text-decoration: underline;
+.error {
+  color: red;
 }
 
-.form {
-  margin-top: 25px;
-  width: 100%;
+.total {
+  font-size: 145%;
+  text-decoration: underline;
 }
 
 .transactions {
@@ -49,3 +46,9 @@ tr:nth-child(even) {
   width: 90%;
   margin: 0 auto;
 }
+
+.form {
+  margin-top: 27px;
+  width: 100%;
+}
+
